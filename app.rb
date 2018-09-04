@@ -8,7 +8,7 @@ module FormsLab
     end
 
     get '/new' do
-      render :template => "views/pirates/new"
+      render :template => "pirates/new"
     end
 
 
