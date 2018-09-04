@@ -16,7 +16,7 @@ module FormsLab
 
       @ships = Ship.all
     end
-    
+
   end
 
 end
